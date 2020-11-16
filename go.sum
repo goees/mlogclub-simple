@@ -63,6 +63,7 @@ github.com/goees/go-mysql v1.5.1 h1:Q/uCxSET2fFMkhy8xUxIqIBJGflYM3GTG2BRoXUrimI=
 github.com/goees/go-mysql v1.5.1/go.mod h1:SG558muorU1pCBK6c1tu0YCuIzJVsXqoVcKidiYVni8=
 github.com/goees/jinzhu-gorm v1.9.19 h1:yJhAvt93yvO1jxBsZRN879FXEB9axO0QKVYcs6VScOM=
 github.com/goees/jinzhu-gorm v1.9.19/go.mod h1:DlCwrhHaQlP/M6cIsRNeOZ8Pq0t3esifC1GMGlDNDV4=
+github.com/goees/jinzhu-gorm v1.9.20/go.mod h1:0kYgLfW7U0b8setzbjgXP7KLwoarkjtPGXu/89A2VPs=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/gogo/protobuf v1.2.0/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
