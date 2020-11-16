@@ -1,4 +1,4 @@
-module github.com/mlogclub/simple
+module github.com/goees/mlogclub-simple
 
 go 1.13
 
