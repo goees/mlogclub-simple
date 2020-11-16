@@ -65,6 +65,7 @@ github.com/goees/jinzhu-gorm v1.9.19 h1:yJhAvt93yvO1jxBsZRN879FXEB9axO0QKVYcs6VS
 github.com/goees/jinzhu-gorm v1.9.19/go.mod h1:DlCwrhHaQlP/M6cIsRNeOZ8Pq0t3esifC1GMGlDNDV4=
 github.com/goees/jinzhu-gorm v1.9.20 h1:ZwugB21yl0JvgorfXyzZuzBdv1eupvRsJqjr/XzjoLY=
 github.com/goees/jinzhu-gorm v1.9.20/go.mod h1:0kYgLfW7U0b8setzbjgXP7KLwoarkjtPGXu/89A2VPs=
+github.com/goees/jinzhu-gorm v1.9.21/go.mod h1:ybevwonKZd2Q88Kcu1WpUQr04OqTTiylZ8+PArpElpE=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/gogo/protobuf v1.2.0/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
