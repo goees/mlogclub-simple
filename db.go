@@ -1,8 +1,8 @@
 package simple
 
 import (
+	_ "github.com/goees/go-mysql"
 	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/mysql"
 	log "github.com/sirupsen/logrus"
 )
 
