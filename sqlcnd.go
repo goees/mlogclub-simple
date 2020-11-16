@@ -1,7 +1,7 @@
 package simple
 
 import (
-	"github.com/jinzhu/gorm"
+	"github.com/goees/jinzhu-gorm"
 	"github.com/sirupsen/logrus"
 )
 
