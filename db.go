@@ -2,7 +2,7 @@ package simple
 
 import (
 	_ "github.com/goees/go-mysql"
-	"github.com/jinzhu/gorm"
+	"github.com/goees/jinzhu-gorm"
 	log "github.com/sirupsen/logrus"
 )
 
